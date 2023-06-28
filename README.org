@@ -1,0 +1,9 @@
+* cl-spath
+
+A Common Lisp library for running search queries against s-expressions.
+
+|---------+--------------------------------------------------|
+| source  | git:https://github.com/svetlyak40wt/cl-spath.git |
+| commit  | 34843a3                                          |
+| systems | spath                                            |
+|---------+--------------------------------------------------|
