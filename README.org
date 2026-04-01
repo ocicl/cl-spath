@@ -7,3 +7,4 @@ A Common Lisp library for running search queries against s-expressions.
 | commit  | 34843a3                                          |
 | systems | spath                                            |
 |---------+--------------------------------------------------|
+ 
